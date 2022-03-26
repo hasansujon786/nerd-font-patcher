@@ -1,6 +1,3 @@
-# nerd-font-patcher
-only pather &amp; src glyphs copied from ryanoasis/nerd-fonts
-
 # Usage
 ```
 sudo apt-get install software-properties-common
